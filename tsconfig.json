@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "allowJs": true,
     "target": "es2019",
     "lib": ["es2019", "esnext", "dom", "dom.iterable"],
     "noErrorTruncation": false,
